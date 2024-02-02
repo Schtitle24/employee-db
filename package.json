@@ -1,0 +1,18 @@
+{
+  "name": "challenge10",
+  "version": "1.0.0",
+  "description": "Employee Database",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Schtitle24",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.9.1"
+  }
+}
